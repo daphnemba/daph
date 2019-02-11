@@ -2,9 +2,9 @@
 Tarefa de Programação Web I (05/02/19)
 <html>
     <head>
-        <title>
-        Página Principal
-        </title>
+       <title>
+       Página Principal
+       </title>
   </head>
   <body>
     <h1>Página Principal</h1>
