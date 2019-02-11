@@ -3,7 +3,7 @@ Tarefa de Programação Web I (05/02/19)
 <html>
     <head>
         <title>
-        Pagina Principal
+        Página Principal
         </title>
   </head>
   <body>
